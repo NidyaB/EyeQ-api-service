@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+opencv-python-headless
+ultralytics
+mediapipe
+joblib
+python-multipart
+onnxruntime
+tf2onnx
+onnx
